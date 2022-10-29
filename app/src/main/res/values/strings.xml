@@ -1,0 +1,10 @@
+<resources>
+    android:
+
+    <string name="let_s_play">Let\'s Play!</string>
+    <string name="please_enter_your_name">Please enter your name</string>
+    <string name="start">Start</string>
+    <string name="name">Name</string>
+    <string name="app_name">LetsQuiz</string>
+    <string name="Hi">hi</string>
+</resources>
